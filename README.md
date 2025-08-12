@@ -1,31 +1,76 @@
-<div align="center" width="50">
+<h1 align="center">Hi, I'm Ahmed Adel  👋</h1>
+<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<p align="center">
+  <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+---
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <be>
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
-</details>
+## 🚀 About Me
 
-![Totals Hits](https://komarev.com/ghpvc/?username=AhmedAbdElHakeem&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedAbdElHakeem&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/AhmedAbdElHakeem-grey?style=flat&logo=telegram)](https://t.me/YOUR_USERNAME) <br>
-</div>
+```dart
+class AhmedAdel {
+  String role = "Flutter Developer & Instructor";
+  String language = "Arabic";
+  String brand = "Learn Simply | اتعلم ببساطة";
+  List<String> skills = [
+    "Flutter UI/UX",
+    "Dart Animations",
+    "Python, Java, C++",
+    "GitHub & Copilot",
+    "Arabic Content Creation"
+    "Simplify Code"
+  ];
+}
+```
+## 🔥 Highlights
 
-<hr></hr>
+- 🔥 Built a YouTube channel with **240K+ subscribers**
+- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
+- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
+- 🧩 Building **reusable Flutter components**, animations & UI kits
+- 📦 Making **clean code fun** to learn for beginners
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
+
+---
+
+## 🎬 My YouTube Focus
+
+- ✅ **Flutter basics to advanced** (in Arabic)
+- ✅ **Problem-solving** with C++ & Java
+- ✅ **Real app UIs** with animations
+- ✅ Tips for **VS Code, Git**, and productivity
+- ✅ Free projects and walkthroughs
+
+▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
+
+---
 
 
+
+## ⚡️ Motto
+
+> **“Let’s simplify learning, one line of code at a time.”**
