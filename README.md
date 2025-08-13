@@ -1,76 +1,48 @@
-<h1 align="center">Hi, I'm Ahmed Adel  👋</h1>
-<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/> <br>
+
+# Hi, I'm Ahmed AbdEl Hakeem 👋  
+### Mobile Application Developer | Flutter Developer ❤️
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.hakeem1599)
+[![Instagram](https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmed.hakeem1599)
+[![LinkedIn](https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedhakeem1599)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201096204326)
 
 ---
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
-## 🚀 About Me
+---
+</div>
 
-```dart
-class AhmedAdel {
-  String role = "Flutter Developer & Instructor";
-  String language = "Arabic";
-  String brand = "Learn Simply | اتعلم ببساطة";
-  List<String> skills = [
-    "Flutter UI/UX",
-    "Dart Animations",
-    "Python, Java, C++",
-    "GitHub & Copilot",
-    "Arabic Content Creation"
-    "Simplify Code"
-  ];
-}
-```
-## 🔥 Highlights
 
-- 🔥 Built a YouTube channel with **240K+ subscribers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
-
+## 👨‍💻 About Me
+- 🚀 Passionate **Flutter Developer** creating modern, user-friendly mobile apps.  
+- 🎯 Currently improving skills in **Firebase** & **GetX** & **BLOC**.  
+- 🌱 Always open to learning new tools and frameworks.  
+- 📌 Interested in **Open Source** and contributing to the developer community.
 ---
 
 ## 🧰 Tech Toolbox
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,vscode,github,figma,git,bash" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
+## 📌 Featured Projects
+- 📱 **[Project 1 - ToDo List](#)** – **Firebase** & **GetX**
+- 💡 **[Project 2 - App Name](#)** – Another great app you built.  
+- 🎨 **[UI/UX Showcase](#)** – A collection of your design work in Flutter.
 
 ---
+<div align="center">
 
-## 🎬 My YouTube Focus
+## 🤝 Let's Connect
+Feel free to reach out if you want to collaborate on projects or just say hi!  
+💌 **Email:** ahmed.hakeem1599@gmail.com
+</div>
 
-- ✅ **Flutter basics to advanced** (in Arabic)
-- ✅ **Problem-solving** with C++ & Java
-- ✅ **Real app UIs** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
-
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
-
----
-
-
-
-## ⚡️ Motto
-
-> **“Let’s simplify learning, one line of code at a time.”**
